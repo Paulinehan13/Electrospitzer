@@ -1,0 +1,98 @@
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+.navbar {
+  background-color: gray;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 500px;
+}
+
+.nav-link {
+  margin-right: 50px;
+  font-size: 17px;
+  color: #FF4500
+}
+
+.container-bg {
+  position: absolute;
+}
+
+#myVideo {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.contents{ 
+  padding-top: 100px;
+}
+
+/* Add some content at the bottom of the video/page */
+.content-home {
+  background-color: gray;
+  opacity: 0.3;
+  color: #f1f1f1;
+  width: 95%;
+  height: fit-content;
+  margin:auto;
+  position:relative;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
+
+.content-events {
+  background-color: gray;
+  opacity: 0.3;
+  color: #f1f1f1;
+  width: 95%;
+  height: fit-content;
+  margin:auto;
+  position:relative;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
+
+
+.content-workshop {
+  background-color: gray;
+  opacity: 0.3;
+  color: #f1f1f1;
+  width: 95%;
+  height: fit-content;
+  margin:auto;
+  position:relative;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
+
+.content-paper {
+  background-color: gray;
+  opacity: 0.3;
+  color: #f1f1f1;
+  width: 95%;
+  height: fit-content;
+  margin:auto;
+  position:relative;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
